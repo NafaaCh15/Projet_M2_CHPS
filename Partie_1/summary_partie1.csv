@@ -1,0 +1,4 @@
+Méthode,Pic I(t),Temps pic (jours),Ordre convergence
+Python Euler,0.2470489545437916,42.8,1.0
+Python RK4,0.2458983205455881,42.6,4.0
+C++ RK4,0.2458983205,42.6,4.0

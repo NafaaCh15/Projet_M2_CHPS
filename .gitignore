@@ -1,0 +1,28 @@
+Contenu à mettre dedans :
+
+# Environnements Python
+env/
+venv/
+ENV/
+.venv
+
+# Fichiers compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Système
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Données temporaires
+*.tmp
+*.log
+.cache/
